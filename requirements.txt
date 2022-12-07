@@ -1,5 +1,5 @@
 backports-abc==0.4
-certifi==2016.8.8
+certifi==2022.12.7
 configparser==3.5.0
 duo-client==3.0
 enum34==1.1.6
